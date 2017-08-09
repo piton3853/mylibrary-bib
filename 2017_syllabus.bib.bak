@@ -189,4 +189,137 @@
   journal   = {The Army and Low Intensity Conflict},
 }
 
+@InBook{jackson2009,
+  chapter   = {The Fifth Service: The Rise of Special Operations Command},
+  pages     = {145-152},
+  title     = {US Military Innovation since the Cold War: Creation without Destruction},
+  publisher = {Routledge},
+  year      = {2009},
+  author    = {Colin Jackson and Austin Long},
+  editor    = {Harvey M. Sapolsky and Benjamin H. Friedman and Brendan Rittenhouse Green},
+  address   = {New York},
+}
+
+@Article{gray1999,
+  author  = {Colin S. Gray},
+  title   = {Handfuls of Heroes on Desperate Adventures: When do Special Operations Succeed?},
+  journal = {Parameters},
+  year    = {1999},
+  volume  = {29},
+  number  = {1},
+  pages   = {2-24},
+}
+
+@Article{vandenbroucke1993,
+  author    = {Lucien S. Vandenbroucke},
+  title     = {Patterns of Failure},
+  journal   = {Perilous Options: Special Operations as an Instrument of US Foreign Policy},
+  year      = {1993},
+  pages     = {3-8},
+  address   = {New York},
+  publisher = {Oxford University Press},
+}
+
+@MastersThesis{winters1994,
+  author  = {Edward G. Winters and Kent A. Paro},
+  title   = {The Misuse of Special Operations Forces},
+  school  = {Naval Postgraduate School},
+  year    = {1994},
+  address = {Monterey},
+  pages   = {1-36},
+}
+
+@Article{maxwell2015,
+  author  = {David S. Maxwell},
+  title   = {The Only Thing Worse than Misusing SOF is Policy Makers Misusing SOF Operational Methods as a Strategy},
+  journal = {Small Wars Journal},
+  year    = {2015},
+  month   = jun,
+  url     = {http://smallwarsjournal.com/jrnl/art/the-only-thing-worse-than-misusing-sof-is-policy-makers-misusing-sof-operational-methods-as},
+}
+
+@TechReport{simons2012,
+  author      = {Anna Simons},
+  title       = {SOF 2030: An NPS Defense Analysis Seminar Report},
+  institution = {Naval Postgraduate School},
+  year        = {2012},
+  address     = {Monterey},
+}
+
+@Article{hardy2012,
+  author    = {Hardy, John and Lushenko, Paul},
+  title     = {The high value of targeting: a conceptual model for using HVT against a networked enemy},
+  journal   = {Defence Studies},
+  year      = {2012},
+  volume    = {12},
+  number    = {3},
+  pages     = {413--433},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{lushenko2015,
+  author  = {Paul Lushenko},
+  title   = {Reconsidering the Theory and Practice of High Value Targeting},
+  journal = {Counter Terrorist Trends and Analysis},
+  year    = {2015},
+  volume  = {7},
+  number  = {7},
+  pages   = {23-30},
+  month   = aug,
+}
+
+@Article{lushenko2016,
+  author    = {Lushenko, Paul and Hardy, John},
+  title     = {Panjwai: a tale of two COINs in Afghanistan},
+  journal   = {Small Wars \& Insurgencies},
+  year      = {2016},
+  volume    = {27},
+  number    = {1},
+  pages     = {106--131},
+  publisher = {Taylor \& Francis},
+}
+
+@TechReport{riga2003,
+  author      = {Christopher N. Riga and Philip L. Mahla},
+  title       = {Conclusions and Recommendations},
+  institution = {Naval Postgraduate School},
+  year        = {2003},
+  address     = {Monterey},
+  journal     = {An Operational Concept for the Transformation of SOF into a Fifth Service},
+  pages       = {107-123},
+}
+
+@InBook{atp305,
+  chapter   = {Chapter 2: Fundamentals},
+  pages     = {2-1--2-20},
+  title     = {ATP 3-05.1 Unconventional Warfare},
+  publisher = {Government Printing Office},
+  year      = {2013},
+  author    = {{Department of the Army}},
+  address   = {Washington D.C.},
+}
+
+@InBook{long2006,
+  chapter   = {Chapter 4: COIN theory: What are Insurgencies and How Does One Fight Them?},
+  pages     = {21-33},
+  title     = {On ``Other War:'' Lessons from Five Decades of RAND Counterinsurgency Research},
+  publisher = {RAND},
+  year      = {2006},
+  author    = {Austin Long},
+  address   = {Santa Monica},
+}
+
+@Book{wendt2005,
+  title     = {Strategic Counterinsurgent Modeling},
+  publisher = {US Army War College},
+  year      = {2005},
+  author    = {Wendt, Eric P},
+}
+
+@Unpublished{mccormick2013,
+  author = {Gordon H. McCormick},
+  title  = {The Diamond Model of Insurgency},
+  note   = {This is the Diamond Model of Insurgency first described by Dean Gordon H. McCormick at the Naval Postgraduate School. This model has been taught by Dean McCormick for at least the past decade in one form or another (as of 2013).},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
