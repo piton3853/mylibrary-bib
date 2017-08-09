@@ -97,8 +97,96 @@
   title     = {A Balanced Approach to Irregular Warfare},
   journal   = {Irregular Warfare: A SOF Perspective},
   year      = {2011},
-  city      = {Fort Leavenworth},
+  address   = {Fort Leavenworth},
   publisher = {Center for Army Lessons Learned},
+}
+
+@Article{gray2007,
+  author  = {Colin S. Gray},
+  title   = {Irregular Warfare: One Nature, Many Characters},
+  journal = {Strategi Studies Quarterly},
+  year    = {2007},
+  pages   = {39-45},
+  month   = {Winter},
+}
+
+@Article{cohen1978,
+  author    = {Elliot A. Cohen},
+  title     = {The Origins of Elite Units},
+  journal   = {Commandos and Politicians},
+  year      = {1978},
+  pages     = {29-52},
+  address   = {Cambridge},
+  publisher = {Center for International Affairs},
+}
+
+@Article{tucker2007,
+  author    = {David Tucker and Christopher J. Lamb},
+  title     = {Selection and Qualification},
+  journal   = {United States Special Operations Forces},
+  year      = {2007},
+  pages     = {46-61},
+  address   = {New York},
+  publisher = {Columbia University Press},
+}
+
+@Article{feickert2016,
+  author  = {Andrew Feickert},
+  title   = {U.S. Special Operations Forces (SOF): Background and Issues for Congress},
+  journal = {Congressional Research Office},
+  year    = {2016},
+  month   = apr,
+}
+
+@InBook{jackson2009,
+  chapter   = {The Fifth Service: The Rise of Special Operations Command},
+  pages     = {136-144},
+  title     = {US Military Innovation Since the Cold War: Creation Without Destruction},
+  publisher = {Routledge},
+  year      = {2009},
+  author    = {Colin Jackson and Austin Long},
+  editor    = {Harvey M. Sapolsky and Benjamin H. Friedman and Brendan Rittenhouse Green},
+  address   = {New York},
+  journal   = {US Military Innovation Since the Cold War: Creation Without Destruction},
+}
+
+@Article{weisgerber2015,
+  author  = {Marcus Weisgerber},
+  title   = {Peeling the Onion Back on the Pentagon's Special Operations Budget},
+  journal = {Defense One},
+  year    = {2015},
+  month   = jan,
+  url     = {http://www.defenseone.com/management/2015/01/peeling-onion-back-pentagons-special-operations-budget/103905/},
+}
+
+@Article{kuyers2013,
+  author  = {Josh Kuyers},
+  title   = {CIA or DoD: Clarifying the Legal Framework Applicable to the Drone Authority Debate},
+  journal = {National Security Law Brief - American University Washington College of Law},
+  year    = {2013},
+  month   = apr,
+  url     = {http://www.nationalsecuritylawbrief.com/cia-or-dod-clarifying-the-legal-framework-applicable-to-the-drone-authority-debate-2/},
+}
+
+@Article{luttwak1984,
+  author  = {Edward N. Luttwak},
+  title   = {Notes on Low-Intensity Warfare},
+  journal = {Parameters},
+  year    = {1984},
+  volume  = {13},
+  number  = {4},
+  pages   = {11-14},
+}
+
+@InBook{waddell2013,
+  chapter   = {Chapter 3: The Counterinsurgency Era 1961-1965},
+  pages     = {108-129},
+  title     = {The Army and Low Intensity Conflict},
+  publisher = {Fortis},
+  year      = {2013},
+  author    = {Rick Waddell},
+  address   = {Jacksonville},
+  journal   = {The Army and Low Intensity Conflict},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
