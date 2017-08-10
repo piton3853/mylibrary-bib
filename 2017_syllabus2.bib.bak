@@ -355,10 +355,10 @@
 
 @Article{kitfield2014,
   author  = {James Kitfield},
-  title   = {Inside America's Shadow War on Terror—and Why It Will Never End},
+  title   = {Inside America's Shadow War on Terror--and Why It Will Never End},
   journal = {The National Journal},
   year    = {2014},
-  month   = may,
+  month   = {May},
 }
 
 @Book{mcraven1996,
@@ -457,7 +457,7 @@
   author    = {Alfred H. Paddock},
 }
 
-@InBook{long2012,
+@InBook{long2012a,
   chapter   = {Chapter 4: South Vietnam},
   pages     = {55-75},
   title     = {Locals Rule: Historical Lessons for Creating Local Defense Forces for Afghanistan and Beyond},
@@ -522,11 +522,139 @@
   address   = {Denver},
 }
 
-@Book{marquis2011,
-  title     = {Unconventional Warfare: Rebuilding US Special Operation Forces},
-  publisher = {Brookings Institution Press},
-  year      = {2011},
-  author    = {Marquis, Susan},
+@InBook{petit2013c,
+  chapter   = {Chapter 5: Analysis of Special Opertions Phase Zero Operational Art},
+  pages     = {120-165},
+  title     = {Going big by getting small: The application of operational art by special operations in phase zero},
+  publisher = {Outskirts Press, Incorporated},
+  year      = {2013},
+  author    = {Brian S. Petit and Eric Thor Olson},
+  address   = {Denver},
+}
+
+@InBook{simons2003,
+  chapter   = {The Military Advisor as Warrior-King and Other ``Going Native'' Temptations},
+  pages     = {113-133},
+  title     = {Anthropology and the United States Military: Coming of Age in the Twenty-first Century},
+  publisher = {Palgrave Macmillan},
+  year      = {2003},
+  author    = {Anna Simons},
+  editor    = {Pamela R. Freese and Margaret C. Harrell},
+  address   = {New York},
+}
+
+@Article{collins2014,
+  author  = {Joseph Collins},
+  title   = {The Rise and Fall of Major Jim Gant},
+  journal = {War on the Rocks},
+  year    = {2014},
+  url     = {http://warontherocks.com/2014/04/the-rise-and-fall-of-major-jim-gant/},
+}
+
+@InBook{long2012b,
+  chapter   = {Chapter 9: Iraq},
+  pages     = {149-163},
+  title     = {Locals Rule: Historical Lessons for Creating Local Defense Forces for Afghanistan and Beyond},
+  publisher = {RAND},
+  year      = {2012},
+  author    = {Austin Long},
+  address   = {Santa Monica},
+}
+
+@Article{connett2011,
+  author  = {Ty Connett and Bob Cassidy},
+  title   = {VSO: More than Village Defense},
+  journal = {Special Warfare},
+  year    = {2011},
+  volume  = {24},
+  number  = {3},
+  pages   = {24-27},
+}
+
+@Article{malvesti2012,
+  author  = {Michele Malvesti},
+  title   = {Policy Considerations in Combating Terrorism: Decision‐Making under Conditions of Risk and Uncertainty},
+  journal = {Occasional Paper Series},
+  year    = {2012},
+  month   = jan,
+}
+
+@Article{ferenzi2016a,
+  author = {Steve Ferenzi},
+  title  = {Memorandum: The Caliphate and Al-Qaeda’s Leadership of the Global Jihadist Movement},
+  year   = {2016},
+}
+
+@MastersThesis{ferenzi2016b,
+  author  = {Steve Ferenzi},
+  title   = {Proxy War Theory},
+  school  = {Columbia University School of International and Public Affairs},
+  year    = {2014},
+  journal = {On Proxy War (Fall 2014 SIPA Capstone)},
+}
+
+@Article{wood2015,
+  author  = {Graeme Wood},
+  title   = {What ISIS Really Wants},
+  journal = {The Atlantic},
+  year    = {2015},
+}
+
+@Article{ferenzi2016c,
+  author  = {Steve Ferenzi},
+  title   = {Beyond Half-Measures - Influencing Syria’s Political Order through Non-State Proxies},
+  journal = {Small Wars Journal},
+  year    = {2016},
+  url     = {http://smallwarsjournal.com/jrnl/art/beyond-half-measures-influencing-syria%E2%80%99s-political-order-through-non-state-proxies},
+}
+
+@Article{fox2014,
+  author  = {Fox, W and Thompson, MN},
+  title   = {Phase targeting of terrorist attacks: simplifying complexity with analytical hierarchy process},
+  journal = {International Journal of Decision Sciences},
+  year    = {2014},
+  volume  = {5},
+  pages   = {57--64},
+}
+
+@Book{lake2016,
+  title     = {The Statebuilder's Dilemma: Legitimacy, Loyalty, and the Limits of External Intervention},
+  publisher = {Ithaca, NY: Cornell University Press},
+  year      = {2016},
+  author    = {Lake, David},
+}
+
+@Book{staniland2014,
+  title     = {Networks of rebellion: Explaining insurgent cohesion and collapse},
+  publisher = {Cornell University Press},
+  year      = {2014},
+  author    = {Staniland, Paul},
+}
+
+@Article{ferenzi2016d,
+  author  = {Steve Ferenzi},
+  title   = {Want to Build a Better Proxy in Syria? Lessons from Tibet},
+  journal = {War on the Rocks},
+  year    = {2016},
+}
+
+@Article{chenoweth2011,
+  author  = {Erica Cheoweth},
+  title   = {Think Again: Nonviolent Resistance},
+  journal = {Foreign Policy},
+  year    = {2011},
+  url     = {http://foreignpolicy.com/2011/08/24/think-again-nonviolent-resistance/},
+}
+
+@Article{staniland2012,
+  author    = {Staniland, Paul},
+  title     = {States, insurgents, and wartime political orders},
+  journal   = {Perspectives on Politics},
+  year      = {2012},
+  volume    = {10},
+  number    = {2},
+  pages     = {243--264},
+  publisher = {Cambridge University Press},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
