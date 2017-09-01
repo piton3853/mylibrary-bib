@@ -1,0 +1,1769 @@
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 JUL 2017 08:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cms-notes-sample.tex
+(./cms-notes-sample.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+
+! Package inputenc Error: inputenc is not designed for xetex or luatex.
+(inputenc)                only UTF-8 supported.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 \endinput
+               
+For xelatex or lualatex save the document in UTF-8 encoding
+and do not use inputenc, or use the [utf8] option.
+
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/xebabel.def))
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count89
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\csq@reset=\count90
+\csq@gtype=\count91
+\csq@glevel=\count92
+\csq@qlevel=\count93
+\csq@maxlvl=\count94
+\csq@tshold=\count95
+\csq@ltx@everypar=\toks17
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2016/01/31 v5.1g csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks18
+\footnotemargin=\dimen104
+\c@pp@next@reset=\count96
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+\CenteringLeftskip=\skip43
+\RaggedLeftLeftskip=\skip44
+\RaggedRightLeftskip=\skip45
+\CenteringRightskip=\skip46
+\RaggedLeftRightskip=\skip47
+\RaggedRightRightskip=\skip48
+\CenteringParfillskip=\skip49
+\RaggedLeftParfillskip=\skip50
+\RaggedRightParfillskip=\skip51
+\JustifyingParfillskip=\skip52
+\CenteringParindent=\skip53
+\RaggedLeftParindent=\skip54
+\RaggedRightParindent=\skip55
+\JustifyingParindent=\skip56
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-chicago/biblatex-chicago
+.sty
+Package: biblatex-chicago 2016/03/15 v 3.3 biblatex style
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/05/14 v3.4 programmable bibliographies (PK/JW/AB)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count97
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write3
+\integerpart=\count98
+\decimalpart=\count99
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count100
+\c@listtotal=\count101
+\c@listcount=\count102
+\c@liststart=\count103
+\c@liststop=\count104
+\c@citecount=\count105
+\c@citetotal=\count106
+\c@multicitecount=\count107
+\c@multicitetotal=\count108
+\c@instcount=\count109
+\c@maxnames=\count110
+\c@minnames=\count111
+\c@maxitems=\count112
+\c@minitems=\count113
+\c@citecounter=\count114
+\c@savedcitecounter=\count115
+\c@uniquelist=\count116
+\c@uniquename=\count117
+\c@refsection=\count118
+\c@refsegment=\count119
+\c@maxextratitle=\count120
+\c@maxextratitleyear=\count121
+\c@maxextrayear=\count122
+\c@maxextraalpha=\count123
+\c@abbrvpenalty=\count124
+\c@highnamepenalty=\count125
+\c@lownamepenalty=\count126
+\c@maxparens=\count127
+\c@parenlevel=\count128
+\blx@tempcnta=\count129
+\blx@tempcntb=\count130
+\blx@tempcntc=\count131
+\blx@maxsection=\count132
+\blx@maxsegment@0=\count133
+\blx@notetype=\count134
+\blx@parenlevel@text=\count135
+\blx@parenlevel@foot=\count136
+\blx@sectionciteorder@0=\count137
+\labelnumberwidth=\skip57
+\labelalphawidth=\skip58
+\biblabelsep=\skip59
+\bibitemsep=\skip60
+\bibnamesep=\skip61
+\bibinitsep=\skip62
+\bibparsep=\skip63
+\bibhang=\skip64
+\blx@bcfin=\read1
+\blx@bcfout=\write4
+\c@mincomprange=\count138
+\c@maxcomprange=\count139
+\c@mincompwidth=\count140
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'chicago-notes.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count141
+\c@savedafterword=\count142
+\c@annotator=\count143
+\c@savedannotator=\count144
+\c@author=\count145
+\c@savedauthor=\count146
+\c@bookauthor=\count147
+\c@savedbookauthor=\count148
+\c@commentator=\count149
+\c@savedcommentator=\count150
+\c@editor=\count151
+\c@savededitor=\count152
+\c@editora=\count153
+\c@savededitora=\count154
+\c@editorb=\count155
+\c@savededitorb=\count156
+\c@editorc=\count157
+\c@savededitorc=\count158
+\c@foreword=\count159
+\c@savedforeword=\count160
+\c@holder=\count161
+\c@savedholder=\count162
+\c@introduction=\count163
+\c@savedintroduction=\count164
+\c@namea=\count165
+\c@savednamea=\count166
+\c@nameb=\count167
+\c@savednameb=\count168
+\c@namec=\count169
+\c@savednamec=\count170
+\c@translator=\count171
+\c@savedtranslator=\count172
+\c@shortauthor=\count173
+\c@savedshortauthor=\count174
+\c@shorteditor=\count175
+\c@savedshorteditor=\count176
+\c@labelname=\count177
+\c@savedlabelname=\count178
+\c@institution=\count179
+\c@savedinstitution=\count180
+\c@lista=\count181
+\c@savedlista=\count182
+\c@listb=\count183
+\c@savedlistb=\count184
+\c@listc=\count185
+\c@savedlistc=\count186
+\c@listd=\count187
+\c@savedlistd=\count188
+\c@liste=\count189
+\c@savedliste=\count190
+\c@listf=\count191
+\c@savedlistf=\count192
+\c@location=\count193
+\c@savedlocation=\count194
+\c@organization=\count195
+\c@savedorganization=\count196
+\c@origlocation=\count197
+\c@savedoriglocation=\count198
+\c@origpublisher=\count199
+\c@savedorigpublisher=\count266
+\c@publisher=\count267
+\c@savedpublisher=\count268
+\c@language=\count269
+\c@savedlanguage=\count270
+\c@pageref=\count271
+\c@savedpageref=\count272
+\shorthandwidth=\skip65
+\shortjournalwidth=\skip66
+\shortserieswidth=\skip67
+\shorttitlewidth=\skip68
+\shortauthorwidth=\skip69
+\shorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
+\c@textcitecount=\count273
+\c@textcitetotal=\count274
+\c@textcitemaxnames=\count275
+\c@biburlnumpenalty=\count276
+\c@biburlucpenalty=\count277
+\c@biburllcpenalty=\count278
+\c@smartand=\count279
+)
+Package biblatex Info: Trying to load bibliography style 'chicago-notes'...
+Package biblatex Info: ... file 'chicago-notes.bbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-chicago/chicago-notes.bb
+x
+File: chicago-notes.bbx 2016/03/21 v 2.9a biblatex bibliography style
+\lositemsep=\skip71
+)
+Package biblatex Info: Trying to load citation style 'chicago-notes'...
+Package biblatex Info: ... file 'chicago-notes.cbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-chicago/chicago-notes.cb
+x
+File: chicago-notes.cbx 2016/03/18 v 2.9a biblatex citation style
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\footfullcite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/gentium-tug/gentium.sty
+Package: gentium 2012/01/13 Style file for gentium.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count280
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen105
+\PaperHeight=\dimen106
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package biblatex Info: Trying to load language 'american' -> 'cms-american'...
+Package biblatex Info: ... file 'cms-american.lbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-chicago/cms-american.lbx
+File: cms-american.lbx 2013/10/29 v 2.8 biblatex localization
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
+)))
+(./cms-notes-sample.aux)
+\openout1 = `cms-notes-sample.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Try loading font information for T1+gentium on input line 3
+0.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/gentium-tug/t1gentium.fd
+File: t1gentium.fd 2011/01/13 Font definitions for gentium.
+)
+LaTeX Font Info:    Font shape `T1/gentium/m/n' will be
+(Font)              scaled to size 12.0pt on input line 30.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 30.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 30.
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Data encoding 'latin1' specified.
+(biblatex)             Backend will reencode on the fly.
+\openout4 = `cms-notes-sample.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'cms-notes-sample.bbl' not found.
+
+No file cms-notes-sample.bbl.
+Package biblatex Info: Reference section=0 on input line 30.
+Package biblatex Info: Reference segment=0 on input line 30.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 31.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 31.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 31.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 31.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 31.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 31.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 31.
+LaTeX Font Info:    Font shape `T1/gentium/m/n' will be
+(Font)              scaled to size 8.0pt on input line 31.
+LaTeX Font Info:    Font shape `T1/gentium/m/n' will be
+(Font)              scaled to size 10.0pt on input line 31.
+
+
+LaTeX Warning: Citation 'ac:comment' on page 1 undefined on input line 31.
+
+LaTeX Font Info:    Font shape `T1/gentium/bx/n' in size <10> not available
+(Font)              Font shape `T1/gentium/b/n' tried instead on input line 31.
+
+LaTeX Font Info:    Font shape `T1/gentium/b/n' will be
+(Font)              scaled to size 10.0pt on input line 31.
+
+LaTeX Warning: Citation 'adorno:benj' on page 1 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'aristotle:metaphy:gr' on page 1 undefined on input lin
+e 32.
+
+
+LaTeX Warning: Citation 'adorno:benj' on page 1 undefined on input line 32.
+
+
+LaTeX Warning: Citation 'adorno:benj' on page 1 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'ashbrook:brain' on page 1 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'aristotle:metaphy:gr' on page 1 undefined on input lin
+e 34.
+
+
+LaTeX Warning: Citation 'ac:comment' on page 1 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'assocpress:gun' on page 1 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'auden:reading' on page 1 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'ashbrook:brain' on page 1 undefined on input line 36.
+
+
+LaTeX Warning: Citation 'author:forthcoming' on page 1 undefined on input line 
+37.
+
+
+LaTeX Warning: Citation 'assocpress:gun' on page 1 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'babb:peru' on page 1 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'author:forthcoming' on page 1 undefined on input line 
+40.
+
+
+LaTeX Warning: Citation 'auden:reading' on page 1 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'barcott:review' on page 1 undefined on input line 41.
+
+
+LaTeX Warning: Citation 'batson' on page 1 undefined on input line 41.
+
+
+LaTeX Warning: Citation 'babb:peru' on page 1 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'barcott:review' on page 1 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'batson' on page 1 undefined on input line 43.
+
+
+LaTeX Warning: Citation 'beattie:crime' on page 1 undefined on input line 43.
+
+
+LaTeX Warning: Citation 'bedford:photo' on page 1 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'babb:peru' on page 1 undefined on input line 44.
+
+
+LaTeX Warning: Citation 'beethoven:sonata29' on page 1 undefined on input line 
+45.
+
+
+LaTeX Warning: Citation 'bernhard:boris' on page 1 undefined on input line 45.
+
+
+LaTeX Warning: Citation 'bernhard:ritter' on page 1 undefined on input line 46.
+
+
+
+LaTeX Warning: Citation 'bernstein:shostakovich' on page 1 undefined on input l
+ine 48.
+
+
+LaTeX Warning: Citation 'boxer:china' on page 1 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'beattie:crime' on page 1 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'brown:bremer' on page 1 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'beethoven:sonata29' on page 1 undefined on input line 
+50.
+
+
+LaTeX Warning: Citation 'bernhard:ritter' on page 1 undefined on input line 50.
+
+
+
+LaTeX Warning: Citation 'bernstein:shostakovich' on page 1 undefined on input l
+ine 51.
+
+
+LaTeX Warning: Citation 'bernhard:boris' on page 1 undefined on input line 51.
+
+
+LaTeX Warning: Citation 'boxer:china' on page 1 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'browning:aurora' on page 1 undefined on input line 52.
+
+
+
+LaTeX Warning: Citation 'brown:bremer' on page 1 undefined on input line 53.
+
+
+LaTeX Warning: Citation 'bundy:macneil' on page 1 undefined on input line 53.
+
+
+LaTeX Warning: Citation 'centinel:letters' on page 1 undefined on input line 54
+.
+
+
+LaTeX Warning: Citation 'chaucer:liferecords' on page 1 undefined on input line
+ 56.
+
+
+LaTeX Warning: Citation 'browning:aurora' on page 1 undefined on input line 56.
+
+
+
+LaTeX Warning: Citation 'bundy:macneil' on page 1 undefined on input line 57.
+
+
+LaTeX Warning: Citation 'centinel:letters' on page 1 undefined on input line 58
+.
+
+
+LaTeX Warning: Citation 'chaucer:alt' on page 1 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'clark:mesopot' on page 1 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'chaucer:liferecords' on page 1 undefined on input line
+ 61.
+
+
+LaTeX Warning: Citation 'cleese:holygrail' on page 1 undefined on input line 61
+.
+
+
+LaTeX Warning: Citation 'Clemens:letter' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'cohen:schiff' on page 1 undefined on input line 62.
+
+
+LaTeX Warning: Citation 'Clemens:letter' on page 1 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'clark:mesopot' on page 1 undefined on input line 63.
+
+
+LaTeX Warning: Citation 'cleese:holygrail' on page 1 undefined on input line 64
+.
+
+
+LaTeX Warning: Citation 'cohen:schiff' on page 1 undefined on input line 64.
+
+
+LaTeX Warning: Citation 'chaucer:alt' on page 1 undefined on input line 65.
+
+
+LaTeX Warning: Citation 'conley:fifthgrade' on page 1 undefined on input line 6
+5.
+
+
+LaTeX Warning: Citation 'contrib:contrib' on page 1 undefined on input line 66.
+
+
+
+LaTeX Warning: Citation 'conley:fifthgrade' on page 1 undefined on input line 6
+8.
+
+
+LaTeX Warning: Citation 'contrib:contrib' on page 1 undefined on input line 68.
+
+
+
+LaTeX Warning: Citation 'cook:sotweed' on page 1 undefined on input line 69.
+
+
+LaTeX Warning: Citation 'cotton:manufacture' on page 1 undefined on input line 
+69.
+
+
+LaTeX Warning: Citation 'coolidge:speech' on page 1 undefined on input line 70.
+
+
+
+LaTeX Warning: Citation 'cook:sotweed' on page 1 undefined on input line 70.
+
+
+LaTeX Warning: Citation 'creasey:ashe:blast' on page 1 undefined on input line 
+71.
+
+
+LaTeX Warning: Citation 'creasey:york:death' on page 1 undefined on input line 
+71.
+
+
+LaTeX Warning: Citation 'cotton:manufacture' on page 1 undefined on input line 
+72.
+
+
+LaTeX Warning: Citation 'creasey:morton:hide' on page 1 undefined on input line
+ 72.
+
+
+LaTeX Warning: Citation 'coolidge:speech' on page 1 undefined on input line 73.
+
+
+
+LaTeX Warning: Citation 'creasey:ashe:blast' on page 1 undefined on input line 
+73.
+
+
+LaTeX Warning: Citation 'creel:house' on page 1 undefined on input line 74.
+
+[1
+
+]
+
+LaTeX Warning: Citation 'davenport:attention' on page 2 undefined on input line
+ 76.
+
+
+LaTeX Warning: Citation 'creasey:york:death' on page 2 undefined on input line 
+76.
+
+
+LaTeX Warning: Citation 'creasey:morton:hide' on page 2 undefined on input line
+ 77.
+
+
+LaTeX Warning: Citation 'creel:house' on page 2 undefined on input line 78.
+
+
+LaTeX Warning: Citation 'dinkel:agassiz' on page 2 undefined on input line 79.
+
+
+LaTeX Warning: Citation 'donne:var' on page 2 undefined on input line 79.
+
+
+LaTeX Warning: Citation 'davenport:attention' on page 2 undefined on input line
+ 80.
+
+
+LaTeX Warning: Citation 'dunn:revolutions' on page 2 undefined on input line 80
+.
+
+
+LaTeX Warning: Citation 'dyna:browser' on page 2 undefined on input line 81.
+
+
+LaTeX Warning: Citation 'dinkel:agassiz' on page 2 undefined on input line 81.
+
+
+LaTeX Warning: Citation 'eliot:pound' on page 2 undefined on input line 82.
+
+
+LaTeX Warning: Citation 'ellet:galena' on page 2 undefined on input line 82.
+
+
+LaTeX Warning: Citation 'donne:var' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Citation 'dyna:browser' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Citation 'ellis:blog' on page 2 undefined on input line 85.
+
+
+LaTeX Warning: Citation 'emerson:nature' on page 2 undefined on input line 85.
+
+
+LaTeX Warning: Citation 'ency:britannica' on page 2 undefined on input line 86.
+
+
+
+LaTeX Warning: Citation 'dunn:revolutions' on page 2 undefined on input line 86
+.
+
+
+LaTeX Warning: Citation 'eliot:pound' on page 2 undefined on input line 87.
+
+
+LaTeX Warning: Citation 'euripides:orestes' on page 2 undefined on input line 8
+7.
+
+
+LaTeX Warning: Citation 'ellet:galena' on page 2 undefined on input line 88.
+
+
+LaTeX Warning: Citation 'ellis:blog' on page 2 undefined on input line 88.
+
+
+LaTeX Warning: Citation 'emerson:nature' on page 2 undefined on input line 89.
+
+
+LaTeX Warning: Citation 'evanston:library' on page 2 undefined on input line 89
+.
+
+
+LaTeX Warning: Citation 'feydeau:farces' on page 2 undefined on input line 90.
+
+
+LaTeX Warning: Citation 'floyd:atom' on page 2 undefined on input line 91.
+
+
+LaTeX Warning: Citation 'euripides:orestes' on page 2 undefined on input line 9
+1.
+
+
+LaTeX Warning: Citation 'frede:inproc' on page 2 undefined on input line 93.
+
+
+LaTeX Warning: Citation 'friedman:learning' on page 2 undefined on input line 9
+3.
+
+
+LaTeX Warning: Citation 'evanston:library' on page 2 undefined on input line 94
+.
+
+
+LaTeX Warning: Citation 'feydeau:farces' on page 2 undefined on input line 94.
+
+
+LaTeX Warning: Citation 'floyd:atom' on page 2 undefined on input line 95.
+
+
+LaTeX Warning: Citation 'frede:inproc' on page 2 undefined on input line 95.
+
+
+LaTeX Warning: Citation 'friedman:learning' on page 2 undefined on input line 9
+6.
+
+
+LaTeX Warning: Citation 'friends:leia' on page 2 undefined on input line 96.
+
+
+LaTeX Warning: Citation 'furet:passing:eng' on page 2 undefined on input line 9
+7.
+
+
+LaTeX Warning: Citation 'garaud:gatine' on page 2 undefined on input line 97.
+
+
+LaTeX Warning: Citation 'garrett' on page 2 undefined on input line 98.
+
+
+LaTeX Warning: Citation 'gibbard' on page 2 undefined on input line 98.
+
+
+LaTeX Warning: Citation 'friends:leia' on page 2 undefined on input line 100.
+
+
+LaTeX Warning: Citation 'furet:passing:eng' on page 2 undefined on input line 1
+00.
+
+
+LaTeX Warning: Citation 'garrett' on page 2 undefined on input line 101.
+
+
+LaTeX Warning: Citation 'good:wholeissue' on page 2 undefined on input line 101
+.
+
+
+LaTeX Warning: Citation 'gourmet:052006' on page 2 undefined on input line 102.
+
+
+
+LaTeX Warning: Citation 'garaud:gatine' on page 2 undefined on input line 102.
+
+
+LaTeX Warning: Citation 'greek:filmstrip' on page 2 undefined on input line 103
+.
+
+
+LaTeX Warning: Citation 'grove:sibelius' on page 2 undefined on input line 103.
+
+
+
+LaTeX Warning: Citation 'handel:messiah' on page 2 undefined on input line 104.
+
+
+
+LaTeX Warning: Citation 'harley:cartography' on page 2 undefined on input line 
+104.
+
+
+LaTeX Warning: Citation 'harley:ancient:cart' on page 2 undefined on input line
+ 105.
+
+
+LaTeX Warning: Citation 'harwood:biden' on page 2 undefined on input line 105.
+
+
+LaTeX Warning: Citation 'gibbard' on page 2 undefined on input line 106.
+
+
+LaTeX Warning: Citation 'hitchcock:nbynw' on page 2 undefined on input line 106
+.
+
+[2]
+
+LaTeX Warning: Citation 'good:wholeissue' on page 3 undefined on input line 108
+.
+
+
+LaTeX Warning: Citation 'hlatky:hrt' on page 3 undefined on input line 108.
+
+
+LaTeX Warning: Citation 'greek:filmstrip' on page 3 undefined on input line 109
+.
+
+
+LaTeX Warning: Citation 'gourmet:052006' on page 3 undefined on input line 109.
+
+
+
+LaTeX Warning: Citation 'handel:messiah' on page 3 undefined on input line 110.
+
+
+
+LaTeX Warning: Citation 'harwood:biden' on page 3 undefined on input line 110.
+
+
+LaTeX Warning: Citation 'grove:sibelius' on page 3 undefined on input line 111.
+
+
+
+LaTeX Warning: Citation 'hitchcock:nbynw' on page 3 undefined on input line 112
+.
+
+
+LaTeX Warning: Citation 'holiday:fool' on page 3 undefined on input line 112.
+
+
+LaTeX Warning: Citation 'horsley:prosodies' on page 3 undefined on input line 1
+13.
+
+
+LaTeX Warning: Citation 'harley:cartography' on page 3 undefined on input line 
+113.
+
+
+LaTeX Warning: Citation 'horowitz:youtube' on page 3 undefined on input line 11
+4.
+
+
+LaTeX Warning: Citation 'harley:ancient:cart' on page 3 undefined on input line
+ 116.
+
+
+LaTeX Warning: Citation 'jackson:paulina:letter' on page 3 undefined on input l
+ine 117.
+
+
+LaTeX Warning: Citation 'hlatky:hrt' on page 3 undefined on input line 117.
+
+
+LaTeX Warning: Citation 'james:ambassadors' on page 3 undefined on input line 1
+18.
+
+
+LaTeX Warning: Citation 'holiday:fool' on page 3 undefined on input line 118.
+
+
+LaTeX Warning: Citation 'horowitz:youtube' on page 3 undefined on input line 11
+9.
+
+
+LaTeX Warning: Citation 'horsley:prosodies' on page 3 undefined on input line 1
+19.
+
+
+LaTeX Warning: Citation 'keating:dearborn' on page 3 undefined on input line 12
+0.
+
+
+LaTeX Warning: Citation 'jackson:paulina:letter' on page 3 undefined on input l
+ine 120.
+
+
+LaTeX Warning: Citation 'kern' on page 3 undefined on input line 121.
+
+
+LaTeX Warning: Citation 'james:ambassadors' on page 3 undefined on input line 1
+21.
+
+
+LaTeX Warning: Citation 'kimluu:diethyl' on page 3 undefined on input line 122.
+
+
+
+LaTeX Warning: Citation 'keating:dearborn' on page 3 undefined on input line 12
+4.
+
+
+LaTeX Warning: Citation 'kozinn:review' on page 3 undefined on input line 124.
+
+
+LaTeX Warning: Citation 'kern' on page 3 undefined on input line 125.
+
+
+LaTeX Warning: Citation 'lach:asia' on page 3 undefined on input line 125.
+
+
+LaTeX Warning: Citation 'kimluu:diethyl' on page 3 undefined on input line 126.
+
+
+
+LaTeX Warning: Citation 'lakeforester:pushcarts' on page 3 undefined on input l
+ine 126.
+
+
+LaTeX Warning: Citation 'kozinn:review' on page 3 undefined on input line 127.
+
+
+LaTeX Warning: Citation 'levistrauss:savage' on page 3 undefined on input line 
+127.
+
+
+LaTeX Warning: Citation 'lach:asia' on page 3 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'leo:madonna' on page 3 undefined on input line 128.
+
+
+LaTeX Warning: Citation 'lewis' on page 3 undefined on input line 129.
+
+
+LaTeX Warning: Citation 'lakeforester:pushcarts' on page 3 undefined on input l
+ine 129.
+
+
+LaTeX Warning: Citation 'levistrauss:savage' on page 3 undefined on input line 
+130.
+
+
+LaTeX Warning: Citation 'lecarre:quest' on page 3 undefined on input line 130.
+
+
+LaTeX Warning: Citation 'lewis' on page 3 undefined on input line 131.
+
+
+LaTeX Warning: Citation 'lecarre:quest' on page 3 undefined on input line 131.
+
+
+LaTeX Warning: Citation 'lippincott:chicago' on page 3 undefined on input line 
+132.
+
+
+LaTeX Warning: Citation 'loften:hamlet' on page 3 undefined on input line 134.
+
+
+LaTeX Warning: Citation 'maisonneuve:relations' on page 3 undefined on input li
+ne 134.
+
+
+LaTeX Warning: Citation 'lippincott:chicago' on page 3 undefined on input line 
+135.
+
+
+LaTeX Warning: Citation 'loften:hamlet' on page 3 undefined on input line 135.
+
+
+LaTeX Warning: Citation 'mchugh:wake' on page 3 undefined on input line 136.
+
+
+LaTeX Warning: Citation 'mcmillen:antebellum' on page 3 undefined on input line
+ 136.
+
+
+LaTeX Warning: Citation 'maisonneuve:relations' on page 3 undefined on input li
+ne 137.
+
+
+LaTeX Warning: Citation 'meredith:letters' on page 3 undefined on input line 13
+8.
+
+
+LaTeX Warning: Citation 'mchugh:wake' on page 3 undefined on input line 139.
+
+
+LaTeX Warning: Citation 'mla:style' on page 3 undefined on input line 139.
+
+
+LaTeX Warning: Citation 'morgenson:market' on page 3 undefined on input line 14
+0.
+
+
+LaTeX Warning: Citation 'mozart:figaro' on page 3 undefined on input line 140.
+
+[3]
+
+LaTeX Warning: Citation 'murphy:silent' on page 4 undefined on input line 142.
+
+
+LaTeX Warning: Citation 'nasa:db' on page 4 undefined on input line 142.
+
+
+LaTeX Warning: Citation 'nass:address' on page 4 undefined on input line 143.
+
+
+LaTeX Warning: Citation 'mcmillen:antebellum' on page 4 undefined on input line
+ 143.
+
+
+LaTeX Warning: Citation 'natrecoff:camera' on page 4 undefined on input line 14
+4.
+
+
+LaTeX Warning: Citation 'meredith:letters' on page 4 undefined on input line 14
+4.
+
+
+LaTeX Warning: Citation 'mla:style' on page 4 undefined on input line 145.
+
+
+LaTeX Warning: Citation 'morgenson:market' on page 4 undefined on input line 14
+5.
+
+
+LaTeX Warning: Citation 'murphy:silent' on page 4 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'mozart:figaro' on page 4 undefined on input line 146.
+
+
+LaTeX Warning: Citation 'nasa:db' on page 4 undefined on input line 147.
+
+
+LaTeX Warning: Citation 'nass:address' on page 4 undefined on input line 147.
+
+
+LaTeX Warning: Citation 'nyt:obittrevor' on page 4 undefined on input line 149.
+
+
+
+LaTeX Warning: Citation 'nyt:trevorobit' on page 4 undefined on input line 149.
+
+
+
+LaTeX Warning: Citation 'nytrumpet:art' on page 4 undefined on input line 150.
+
+
+LaTeX Warning: Citation 'osborne:poison' on page 4 undefined on input line 150.
+
+
+
+LaTeX Warning: Citation 'oed:cdrom' on page 4 undefined on input line 151.
+
+
+LaTeX Warning: Citation 'natrecoff:camera' on page 4 undefined on input line 15
+1.
+
+
+LaTeX Warning: Citation 'palmatary:pottery' on page 4 undefined on input line 1
+52.
+
+
+LaTeX Warning: Citation 'nyt:obittrevor' on page 4 undefined on input line 152.
+
+
+
+LaTeX Warning: Citation 'nyt:trevorobit' on page 4 undefined on input line 153.
+
+
+
+LaTeX Warning: Citation 'oed:cdrom' on page 4 undefined on input line 153.
+
+
+LaTeX Warning: Citation 'nytrumpet:art' on page 4 undefined on input line 154.
+
+
+LaTeX Warning: Citation 'pelikan:christian' on page 4 undefined on input line 1
+54.
+
+
+LaTeX Warning: Citation 'petroff:impurity' on page 4 undefined on input line 15
+5.
+
+
+LaTeX Warning: Citation 'osborne:poison' on page 4 undefined on input line 155.
+
+
+
+LaTeX Warning: Citation 'phibbs:diary' on page 4 undefined on input line 156.
+
+
+LaTeX Warning: Citation 'palmatary:pottery' on page 4 undefined on input line 1
+58.
+
+
+LaTeX Warning: Citation 'pirumova' on page 4 undefined on input line 158.
+
+
+LaTeX Warning: Citation 'pelikan:christian' on page 4 undefined on input line 1
+59.
+
+
+LaTeX Warning: Citation 'petroff:impurity' on page 4 undefined on input line 15
+9.
+
+
+LaTeX Warning: Citation 'plato:republic:gr' on page 4 undefined on input line 1
+60.
+
+
+LaTeX Warning: Citation 'polakow:afterw' on page 4 undefined on input line 160.
+
+
+
+LaTeX Warning: Citation 'phibbs:diary' on page 4 undefined on input line 161.
+
+
+LaTeX Warning: Citation 'plato:republic:gr' on page 4 undefined on input line 1
+62.
+
+
+LaTeX Warning: Citation 'pirumova' on page 4 undefined on input line 162.
+
+
+LaTeX Warning: Citation 'polakow:afterw' on page 4 undefined on input line 163.
+
+
+
+LaTeX Warning: Citation 'pollan:plant' on page 4 undefined on input line 163.
+
+
+LaTeX Warning: Citation 'powell:email' on page 4 undefined on input line 164.
+
+
+LaTeX Warning: Citation 'prose:intro' on page 4 undefined on input line 166.
+
+
+LaTeX Warning: Citation 'ratliff:review' on page 4 undefined on input line 166.
+
+
+
+LaTeX Warning: Citation 'reaves:rosen' on page 4 undefined on input line 167.
+
+
+LaTeX Warning: Citation 'pollan:plant' on page 4 undefined on input line 167.
+
+
+LaTeX Warning: Citation 'powell:email' on page 4 undefined on input line 168.
+
+
+LaTeX Warning: Citation 'prose:intro' on page 4 undefined on input line 168.
+
+
+LaTeX Warning: Citation 'rodman:walk' on page 4 undefined on input line 169.
+
+
+LaTeX Warning: Citation 'roosevelt:speech' on page 4 undefined on input line 16
+9.
+
+
+LaTeX Warning: Citation 'ross:thesis' on page 4 undefined on input line 170.
+
+
+LaTeX Warning: Citation 'ratliff:review' on page 4 undefined on input line 170.
+
+
+
+LaTeX Warning: Citation 'rozner:liberation' on page 4 undefined on input line 1
+71.
+
+
+LaTeX Warning: Citation 'rubinstein:chopin' on page 4 undefined on input line 1
+71.
+
+[4]
+
+LaTeX Warning: Citation 'saberhagen:beluga' on page 5 undefined on input line 1
+73.
+
+
+LaTeX Warning: Citation 'schellinger:novel' on page 5 undefined on input line 1
+73.
+
+
+LaTeX Warning: Citation 'reaves:rosen' on page 5 undefined on input line 174.
+
+
+LaTeX Warning: Citation 'schubert:muellerin' on page 5 undefined on input line 
+174.
+
+
+LaTeX Warning: Citation 'rodman:walk' on page 5 undefined on input line 175.
+
+
+LaTeX Warning: Citation 'schweitzer:bach' on page 5 undefined on input line 175
+.
+
+
+LaTeX Warning: Citation 'roosevelt:speech' on page 5 undefined on input line 17
+6.
+
+
+LaTeX Warning: Citation 'ross:thesis' on page 5 undefined on input line 176.
+
+
+LaTeX Warning: Citation 'rozner:liberation' on page 5 undefined on input line 1
+77.
+
+
+LaTeX Warning: Citation 'rubinstein:chopin' on page 5 undefined on input line 1
+77.
+
+
+LaTeX Warning: Citation 'sechzer:women' on page 5 undefined on input line 178.
+
+
+LaTeX Warning: Citation 'schellinger:novel' on page 5 undefined on input line 1
+78.
+
+
+LaTeX Warning: Citation 'sereny:cries' on page 5 undefined on input line 179.
+
+
+LaTeX Warning: Citation 'schubert:muellerin' on page 5 undefined on input line 
+179.
+
+
+LaTeX Warning: Citation 'saberhagen:beluga' on page 5 undefined on input line 1
+80.
+
+
+LaTeX Warning: Citation 'schweitzer:bach' on page 5 undefined on input line 182
+.
+
+
+LaTeX Warning: Citation 'sewall:letter' on page 5 undefined on input line 183.
+
+
+LaTeX Warning: Citation 'shapey:partita' on page 5 undefined on input line 184.
+
+
+
+LaTeX Warning: Citation 'sechzer:women' on page 5 undefined on input line 184.
+
+
+LaTeX Warning: Citation 'sirosh:visualcortex' on page 5 undefined on input line
+ 185.
+
+
+LaTeX Warning: Citation 'sereny:cries' on page 5 undefined on input line 185.
+
+
+LaTeX Warning: Citation 'silver:gawain' on page 5 undefined on input line 186.
+
+
+LaTeX Warning: Citation 'sewall:letter' on page 5 undefined on input line 187.
+
+
+LaTeX Warning: Citation 'soltes:georgia' on page 5 undefined on input line 188.
+
+
+
+LaTeX Warning: Citation 'sirosh:visualcortex' on page 5 undefined on input line
+ 188.
+
+
+LaTeX Warning: Citation 'spock:interview' on page 5 undefined on input line 189
+.
+
+
+LaTeX Warning: Citation 'shapey:partita' on page 5 undefined on input line 189.
+
+
+
+LaTeX Warning: Citation 'stenger:privacy' on page 5 undefined on input line 191
+.
+
+
+LaTeX Warning: Citation 'silver:gawain' on page 5 undefined on input line 191.
+
+
+LaTeX Warning: Citation 'tillich:system' on page 5 undefined on input line 192.
+
+
+
+LaTeX Warning: Citation 'soltes:georgia' on page 5 undefined on input line 192.
+
+
+
+LaTeX Warning: Citation 'spock:interview' on page 5 undefined on input line 193
+.
+
+
+LaTeX Warning: Citation 'times:guide' on page 5 undefined on input line 193.
+
+
+LaTeX Warning: Citation 'twain:audio' on page 5 undefined on input line 194.
+
+
+LaTeX Warning: Citation 'virginia:plantation' on page 5 undefined on input line
+ 194.
+
+
+LaTeX Warning: Citation 'stenger:privacy' on page 5 undefined on input line 195
+.
+
+
+LaTeX Warning: Citation 'chicago:manual' on page 5 undefined on input line 195.
+
+
+
+LaTeX Warning: Citation 'twain:audio' on page 5 undefined on input line 196.
+
+
+LaTeX Warning: Citation 'tillich:system' on page 5 undefined on input line 196.
+
+
+
+LaTeX Warning: Citation 'times:guide' on page 5 undefined on input line 198.
+
+
+LaTeX Warning: Citation 'virginia:plantation' on page 5 undefined on input line
+ 199.
+
+
+LaTeX Warning: Citation 'chicago:manual' on page 5 undefined on input line 199.
+
+
+
+LaTeX Warning: Citation 'unsigned:ranke' on page 5 undefined on input line 200.
+
+
+
+LaTeX Warning: Citation 'herwign:office' on page 5 undefined on input line 200.
+
+
+
+LaTeX Warning: Citation 'verdi:corsaro' on page 5 undefined on input line 201.
+
+
+LaTeX Warning: Citation 'wallraff:word' on page 5 undefined on input line 201.
+
+
+LaTeX Warning: Citation 'unsigned:ranke' on page 5 undefined on input line 202.
+
+
+
+LaTeX Warning: Citation 'warr:ellison' on page 5 undefined on input line 202.
+
+
+LaTeX Warning: Citation 'herwign:office' on page 5 undefined on input line 203.
+
+
+
+LaTeX Warning: Citation 'wallraff:word' on page 5 undefined on input line 203.
+
+
+LaTeX Warning: Citation 'verdi:corsaro' on page 5 undefined on input line 204.
+
+
+LaTeX Warning: Citation 'wauchope:ceramics' on page 5 undefined on input line 2
+04.
+
+[5]
+
+LaTeX Warning: Citation 'weed:flatiron' on page 6 undefined on input line 206.
+
+
+LaTeX Warning: Citation 'weresz' on page 6 undefined on input line 206.
+
+
+LaTeX Warning: Citation 'white:callimachus' on page 6 undefined on input line 2
+07.
+
+
+LaTeX Warning: Citation 'white:ross:memo' on page 6 undefined on input line 207
+.
+
+
+LaTeX Warning: Citation 'warr:ellison' on page 6 undefined on input line 208.
+
+
+LaTeX Warning: Citation 'weed:flatiron' on page 6 undefined on input line 208.
+
+
+LaTeX Warning: Citation 'wikiped:bibtex' on page 6 undefined on input line 209.
+
+
+
+LaTeX Warning: Citation 'will:cohere' on page 6 undefined on input line 209.
+
+
+LaTeX Warning: Citation 'wauchope:ceramics' on page 6 undefined on input line 2
+10.
+
+
+LaTeX Warning: Citation 'zukowsky:chicago' on page 6 undefined on input line 21
+0.
+
+LaTeX Font Info:    Font shape `T1/gentium/bx/n' in size <12> not available
+(Font)              Font shape `T1/gentium/b/n' tried instead on input line 210
+.
+LaTeX Font Info:    Font shape `T1/gentium/b/n' will be
+(Font)              scaled to size 12.0pt on input line 210.
+
+Overfull \hbox (5.97539pt too wide) in paragraph at lines 206--212
+[]\T1/gentium/m/n/12 Note[] note.[] note[] note[] note[] note[] note[] note[] n
+ote.[] As [][] 
+ []
+
+
+LaTeX Warning: Citation 'weresz' on page 6 undefined on input line 213.
+
+
+LaTeX Warning: Citation 'white:russ' on page 6 undefined on input line 213.
+
+
+LaTeX Warning: Citation 'white:callimachus' on page 6 undefined on input line 2
+14.
+
+
+LaTeX Warning: Citation 'white:ross:memo' on page 6 undefined on input line 214
+.
+
+
+LaTeX Warning: Citation 'white:russ' on page 6 undefined on input line 215.
+
+
+LaTeX Warning: Citation 'wikiped:bibtex' on page 6 undefined on input line 215.
+
+
+
+LaTeX Warning: Citation 'will:cohere' on page 6 undefined on input line 216.
+
+
+LaTeX Warning: Citation 'zukowsky:chicago' on page 6 undefined on input line 21
+7.
+
+
+LaTeX Warning: Citation 'aristotle:metaphy:gr' on page 6 undefined on input lin
+e 220.
+
+
+LaTeX Warning: Citation 'plato:republic:gr' on page 6 undefined on input line 2
+20.
+
+
+LaTeX Warning: Citation 'white:callimachus' on page 6 undefined on input line 2
+20.
+
+
+LaTeX Warning: Citation 'aristotle:metaphy:trans' on page 6 undefined on input 
+line 220.
+
+
+LaTeX Warning: Citation 'mchugh:wake' on page 6 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'warr:ellison' on page 6 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'warr:ellison' on page 6 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'mchugh:wake' on page 6 undefined on input line 222.
+
+
+LaTeX Warning: Citation 'powell:email' on page 6 undefined on input line 224.
+
+
+LaTeX Warning: Citation 'meredith:letters' on page 6 undefined on input line 22
+5.
+
+
+LaTeX Warning: Citation 'meredith:letters' on page 6 undefined on input line 22
+6.
+
+
+LaTeX Warning: Citation 'weresz' on page 6 undefined on input line 226.
+
+
+LaTeX Warning: Citation 'weresz' on page 6 undefined on input line 227.
+
+
+LaTeX Warning: Citation 'zukowsky:chicago' on page 6 undefined on input line 22
+7.
+
+
+LaTeX Warning: Citation 'zukowsky:chicago' on page 6 undefined on input line 22
+8.
+
+
+LaTeX Warning: Citation 'furet:related' undefined on input line 230.
+
+
+LaTeX Warning: Citation 'house:papers' undefined on input line 230.
+
+
+LaTeX Warning: Empty biblist 'shorthand' on input line 233.
+
+
+LaTeX Warning: Empty bibliography on input line 234.
+
+[6] (./cms-notes-sample.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                cms-notes-sample
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'cms-notes-sample.run.xml'.
+\openout1 = `cms-notes-sample.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10002 strings out of 493591
+ 176630 string characters out of 6143546
+ 712400 words of memory out of 5000000
+ 13294 multiletter control sequences out of 15000+600000
+ 22053 words of font info for 31 fonts, out of 8000000 for 9000
+ 1347 hyphenation exceptions out of 8191
+ 44i,5n,57p,836b,5544s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on cms-notes-sample.pdf (6 pages).
