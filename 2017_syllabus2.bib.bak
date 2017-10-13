@@ -59,7 +59,7 @@
 }
 
 @Article{dod2015,
-  author = {Department of Defense},
+  author = {{Department of Defense}},
   title  = {The National Military Strategy of the United States 2015},
   year   = {2015},
 }
@@ -573,7 +573,7 @@
 
 @Article{malvesti2012,
   author  = {Michele Malvesti},
-  title   = {Policy Considerations in Combating Terrorism: Decision‐Making under Conditions of Risk and Uncertainty},
+  title   = {Policy Considerations in Combating Terrorism: Decision-Making under Conditions of Risk and Uncertainty},
   journal = {Occasional Paper Series},
   year    = {2012},
   month   = jan,
@@ -581,7 +581,7 @@
 
 @Article{ferenzi2016a,
   author = {Steve Ferenzi},
-  title  = {Memorandum: The Caliphate and Al-Qaeda’s Leadership of the Global Jihadist Movement},
+  title  = {Memorandum: The Caliphate and Al-Qaeda's Leadership of the Global Jihadist Movement},
   year   = {2016},
 }
 
@@ -602,7 +602,7 @@
 
 @Article{ferenzi2016c,
   author  = {Steve Ferenzi},
-  title   = {Beyond Half-Measures - Influencing Syria’s Political Order through Non-State Proxies},
+  title   = {Beyond Half-Measures - Influencing Syria's Political Order through Non-State Proxies},
   journal = {Small Wars Journal},
   year    = {2016},
   url     = {http://smallwarsjournal.com/jrnl/art/beyond-half-measures-influencing-syria%E2%80%99s-political-order-through-non-state-proxies},
@@ -655,6 +655,63 @@
   number    = {2},
   pages     = {243--264},
   publisher = {Cambridge University Press},
+}
+
+@Book{Lake2016,
+  title     = {The statebuilder's dilemma: on the limits of foreign intervention},
+  publisher = {Cornell University Press},
+  year      = {2016},
+  author    = {Lake, David A},
+}
+
+@Book{mulchinock2017nato,
+  title     = {NATO and the Western Balkans: From Neutral Spectator to Proactive Peacemaker},
+  publisher = {Springer},
+  year      = {2017},
+  author    = {Mulchinock, Niall},
+}
+
+@Unpublished{aviation2017,
+  title = {History of Special Operations Aviation},
+  url   = {http://www.soc.mil/USASOCTalks/library.html#usasocVideos},
+}
+
+@InProceedings{holloway1980,
+  author    = {James L. Holloway and U. S. N. Admiral III},
+  title     = {Rescue mission report},
+  booktitle = {Statement mad by Holloway to US Congress},
+  year      = {1980},
+  url       = {http://nsarchive2.gwu.edu//NSAEBB/NSAEBB63/doc8.pdf},
+}
+
+@Book{goldwater1986,
+  title  = {Goldwater-Nichols Department of Defense Reorganization Act of 1986},
+  year   = {1986},
+  author = {United States. Congress. House. Committee on Armed Services},
+}
+
+@Book{beckwith2000,
+  title     = {Delta Force: The Army's Elite Counterterrorist Unit},
+  publisher = {Harper Collins},
+  year      = {2000},
+  author    = {Beckwith, Charlie A and Knox, Donald},
+}
+
+@Book{beckwith1983,
+  title     = {Delta Force: The US Counter-Terrorist Unit and the Iran Hostage Rescue Mission},
+  publisher = {San Diego, CA: Harcourt Brace Jovanovich},
+  year      = {1983},
+  author    = {Beckwith, Charlie A and Knox, Donald},
+}
+
+@Article{wall2011,
+  author    = {Wall, Andru E},
+  title     = {Demystifying the title 10-title 50 debate: Distinguishing military operations, intelligence activities \& covert action},
+  journal   = {Harv. Nat'l Sec. J.},
+  year      = {2011},
+  volume    = {3},
+  pages     = {85},
+  publisher = {HeinOnline},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
